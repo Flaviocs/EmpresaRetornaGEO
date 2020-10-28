@@ -23,11 +23,12 @@ namespace EmpresaRetornaGEO.Controllers
             return obj;            
         }
 
-        [HttpGet("{id}")]
-        public double Get(List<coordenada> Coordenadas)
-        {
-            
-            return Distance(Convert.ToDouble(Coordenadas[0].latitude), Convert.ToDouble(Coordenadas[0].longitude), Convert.ToDouble(Coordenadas[1].latitude), Convert.ToDouble(Coordenadas[1].longitude), 'K');
+        [HttpPost]      
+        
+        public double PostRetornaDistancia(List<coordenada> Coordenadas)
+        {            
+            var decDistancia = Distance(Convert.ToDouble(Coordenadas[0].latitude), Convert.ToDouble(Coordenadas[0].longitude), Convert.ToDouble(Coordenadas[1].latitude), Convert.ToDouble(Coordenadas[1].longitude), 'K');
+            return Math.Round(decDistancia, 2);
         }
 
 
