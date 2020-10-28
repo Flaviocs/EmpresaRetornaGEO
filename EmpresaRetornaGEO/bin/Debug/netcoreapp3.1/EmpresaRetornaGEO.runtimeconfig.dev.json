@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Flaviocs\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Flaviocs\\.nuget\\packages"
+    ]
+  }
+}
