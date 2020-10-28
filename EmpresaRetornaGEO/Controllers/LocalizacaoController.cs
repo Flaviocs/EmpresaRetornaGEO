@@ -15,16 +15,16 @@ namespace EmpresaRetornaGEO.Controllers
         public coordenada Get(string endereco)
         {
             coordenada obj = new coordenada();
-            
+
             Random rnd = new Random();
             obj.latitude = rnd.Next(-99, 99).ToString() + ',' + rnd.Next(99999).ToString();
             obj.longitude = rnd.Next(-99, 99).ToString() + ',' + rnd.Next(99999).ToString();
 
-            return obj;            
+            return obj;
         }
 
-        [HttpPost]      
-        
+
+        [HttpPost]        
         public double PostRetornaDistancia(List<coordenada> Coordenadas)
         {            
             var decDistancia = Distance(Convert.ToDouble(Coordenadas[0].latitude), Convert.ToDouble(Coordenadas[0].longitude), Convert.ToDouble(Coordenadas[1].latitude), Convert.ToDouble(Coordenadas[1].longitude), 'K');
