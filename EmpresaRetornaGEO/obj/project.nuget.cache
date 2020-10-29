@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "83MgDMOsuNBR3EOc2sOeAXE5fpxvoIe1TJFNcxImNRCq9GhwtuoAGZ8lq4sdhED9m08OGsspyNG+8cBAsabrYg==",
+  "dgSpecHash": "K7ijNPgiSQ3owF9fmoIoEfRF3S8woKfFheDVTPCzX7PCatqWLEseRvKIdjj0WiJN6SMXRCAyg1WDwhk4gqw1gw==",
   "success": true,
   "projectFilePath": "C:\\GIT\\EmpresaRetornaGEO\\EmpresaRetornaGEO\\EmpresaRetornaGEO.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Flaviocs\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
   "logs": []
 }

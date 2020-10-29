@@ -1,8 +1,6 @@
 C:\GIT\EmpresaRetornaGEO\EmpresaRetornaGEO\obj\Debug\netcoreapp3.1\EmpresaRetornaGEO.csprojAssemblyReference.cache
 C:\GIT\EmpresaRetornaGEO\EmpresaRetornaGEO\obj\Debug\netcoreapp3.1\EmpresaRetornaGEO.AssemblyInfoInputs.cache
 C:\GIT\EmpresaRetornaGEO\EmpresaRetornaGEO\obj\Debug\netcoreapp3.1\EmpresaRetornaGEO.AssemblyInfo.cs
-C:\GIT\EmpresaRetornaGEO\EmpresaRetornaGEO\obj\Debug\netcoreapp3.1\EmpresaRetornaGEO.csproj.CoreCompileInputs.cache
-C:\GIT\EmpresaRetornaGEO\EmpresaRetornaGEO\obj\Debug\netcoreapp3.1\EmpresaRetornaGEO.MvcApplicationPartsAssemblyInfo.cache
 C:\GIT\EmpresaRetornaGEO\EmpresaRetornaGEO\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\GIT\EmpresaRetornaGEO\EmpresaRetornaGEO\bin\Debug\netcoreapp3.1\appsettings.json
 C:\GIT\EmpresaRetornaGEO\EmpresaRetornaGEO\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
@@ -18,3 +16,5 @@ C:\GIT\EmpresaRetornaGEO\EmpresaRetornaGEO\obj\Debug\netcoreapp3.1\staticwebasse
 C:\GIT\EmpresaRetornaGEO\EmpresaRetornaGEO\obj\Debug\netcoreapp3.1\EmpresaRetornaGEO.dll
 C:\GIT\EmpresaRetornaGEO\EmpresaRetornaGEO\obj\Debug\netcoreapp3.1\EmpresaRetornaGEO.pdb
 C:\GIT\EmpresaRetornaGEO\EmpresaRetornaGEO\obj\Debug\netcoreapp3.1\EmpresaRetornaGEO.genruntimeconfig.cache
+C:\GIT\EmpresaRetornaGEO\EmpresaRetornaGEO\obj\Debug\netcoreapp3.1\EmpresaRetornaGEO.csproj.CoreCompileInputs.cache
+C:\GIT\EmpresaRetornaGEO\EmpresaRetornaGEO\obj\Debug\netcoreapp3.1\EmpresaRetornaGEO.MvcApplicationPartsAssemblyInfo.cache

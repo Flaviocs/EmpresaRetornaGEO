@@ -1,0 +1,9 @@
+C:\GIT\EmpresaRetornaGEO\EmpresaRetornaGEO\bin\Debug\appsettings.Development.json
+C:\GIT\EmpresaRetornaGEO\EmpresaRetornaGEO\bin\Debug\appsettings.json
+C:\GIT\EmpresaRetornaGEO\EmpresaRetornaGEO\bin\Debug\Properties\launchSettings.json
+C:\GIT\EmpresaRetornaGEO\EmpresaRetornaGEO\bin\Debug\EmpresaRetornaGEO.exe
+C:\GIT\EmpresaRetornaGEO\EmpresaRetornaGEO\bin\Debug\EmpresaRetornaGEO.dll
+C:\GIT\EmpresaRetornaGEO\EmpresaRetornaGEO\bin\Debug\EmpresaRetornaGEO.pdb
+C:\GIT\EmpresaRetornaGEO\EmpresaRetornaGEO\obj\Debug\docker-compose.dcprojAssemblyReference.cache
+C:\GIT\EmpresaRetornaGEO\EmpresaRetornaGEO\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\GIT\EmpresaRetornaGEO\EmpresaRetornaGEO\obj\Debug\docker-compose.dcproj.CopyComplete

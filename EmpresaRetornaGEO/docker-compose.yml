@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  empresaretornageo:
+    image: ${DOCKER_REGISTRY-}empresaretornageo
+    build:
+      context: .
+      dockerfile: Dockerfile
