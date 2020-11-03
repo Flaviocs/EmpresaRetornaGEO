@@ -10,6 +10,7 @@ namespace EmpresaRetornaGEO.Model
     {
         public string latitude { get; set; }
         public string longitude { get; set; }
+        public string error { get; set; }
 
         
     }
